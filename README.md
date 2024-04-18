@@ -15,7 +15,9 @@ I am a passionate software developer interested in software development, machine
 ## Contact Me
 - Email: haszurub@gmail.com
 
-[GitHub Pages](https://docs.google.com/document/d/1A1_K2MyrgYUvMgFz6H1Vp-gcEpjsn4Tj7EYlpf4NzKo/edit)
+
+[Google Document](https://docs.google.com/document/d/1A1_K2MyrgYUvMgFz6H1Vp-gcEpjsn4Tj7EYlpf4NzKo/edit)
+
 
 
 
