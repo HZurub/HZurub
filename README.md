@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 Still On progress to be updated 
 
 <!--
 **HZurub/HZurub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome to My GitHub Profile!
+
+## About Me
+I am a passionate software developer interested in software development, machine learning, and AI.
+
+## Skills
+- Programming Languages: Python, JavaScript, Java
+
+## Contact Me
+- Email: haszurub@gmail.com
+
